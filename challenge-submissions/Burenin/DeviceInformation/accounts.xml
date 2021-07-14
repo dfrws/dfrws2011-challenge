@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<accounts>
+<authority id="0" account="norby441@gmail.com" type="com.google" authority="com.android.contacts" />
+<authority id="1" account="norby441@gmail.com" type="com.google" authority="gmail-ls" />
+<authority id="2" account="norby441@gmail.com" type="com.google" authority="subscribedfeeds" />
+<authority id="3" account="norby441@gmail.com" type="com.google" authority="com.cooliris.picasa.contentprovider" syncable="unknown" />
+<authority id="4" account="norby441@gmail.com" type="com.google" authority="calendar" />
+</accounts>

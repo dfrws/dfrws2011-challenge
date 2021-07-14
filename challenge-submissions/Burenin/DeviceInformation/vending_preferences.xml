@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="SERVER_VERSION" value="1000" />
+<boolean name="local_db_sync_required" value="false" />
+<boolean name="metadata_comment_post_enabled" value="true" />
+<long name="last_tickle_id" value="1304706418222" />
+<string name="vending_tos_version">1.0.0</string>
+<int name="device_configuration_hash" value="1289158839" />
+<boolean name="metadata_paid_apps_enabled" value="true" />
+<string name="ddl_key">AIJ80zHv+AVCW8Tc3PJ9pimepCn3qJvHQw==</string>
+<long name="MARKET_LAST_HEARTBEAT_TIMESTAMP" value="1304706398537" />
+<int name="reconciled_version" value="1710" />
+<long name="last_sync_time" value="1304706362862" />
+</map>

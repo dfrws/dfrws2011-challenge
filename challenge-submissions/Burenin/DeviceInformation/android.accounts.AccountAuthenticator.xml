@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<services>
+<service uid="10046" type="com.twitter.android.auth.login" />
+<service uid="10012" type="com.android.exchange" />
+<service uid="10005" type="com.facebook.auth.login" />
+<service uid="10004" type="com.google" />
+</services>
