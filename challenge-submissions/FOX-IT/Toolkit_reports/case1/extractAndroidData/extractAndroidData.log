@@ -1,0 +1,90 @@
+2011-07-22 13:22:38,381 - INFO - ******** extractAndroidData run on 2011-07-22 13:22:38.382000 **********
+2011-07-22 13:22:38,382 - INFO - Image file set: ***anonimized***\mtdblock6.img
+2011-07-22 13:22:38,382 - INFO - Sqlite carver initiated with parameters: 
+ fs page size: 2048
+ fs oob size: 0
+ sqlite page size: 1024
+ sqlite res. region: 0
+2011-07-22 13:22:38,382 - INFO - Carving sqlite records...
+2011-07-22 13:22:38,382 - INFO - Initiating Sqlite carving...
+2011-07-22 13:22:39,487 - WARNING - Exception during parsing in page at offset 9637888: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:40,148 - WARNING - Exception during parsing in page at offset 15593472: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:40,167 - WARNING - Exception during parsing in page at offset 15818752: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:41,046 - WARNING - Exception during parsing in page at offset 23017472: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:41,559 - WARNING - Exception during parsing in page at offset 29769728: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:41,592 - INFO - 10 % done...
+2011-07-22 13:22:43,852 - INFO - 20 % done...
+2011-07-22 13:22:45,933 - INFO - 30 % done...
+2011-07-22 13:22:47,983 - INFO - 40 % done...
+2011-07-22 13:22:50,059 - INFO - 50 % done...
+2011-07-22 13:22:52,144 - INFO - 60 % done...
+2011-07-22 13:22:54,247 - INFO - 70 % done...
+2011-07-22 13:22:56,828 - INFO - 80 % done...
+2011-07-22 13:22:57,153 - WARNING - Exception during parsing in page at offset 225912832: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:22:59,736 - INFO - 90 % done...
+2011-07-22 13:23:02,739 - WARNING - Exception during parsing in page at offset 273694720: No valid varint found. at offset 0 in: []
+Possibly not an sqlite page after all...skipping remainder of page.
+2011-07-22 13:23:02,812 - INFO - Sqlite carving done! Found 28180 records.
+2011-07-22 13:23:02,812 - INFO - Deduplicating records...
+2011-07-22 13:23:03,733 - INFO - Done deduplicating! Reduced number of records from 28180 to 3819.
+2011-07-22 13:23:03,733 - INFO - Creating catalogue of records...
+2011-07-22 13:23:05,720 - INFO - Catalogue done!
+2011-07-22 13:23:05,720 - INFO - WEBVIEW.DB-password: 1 records
+2011-07-22 13:23:05,720 - INFO - CONTACTS2.DB-raw_contacts: 12 records
+2011-07-22 13:23:05,720 - INFO - CONTACTS2.DB-data: 41 records
+2011-07-22 13:23:05,720 - INFO - MMSSMS.DB-sms: 318 records
+2011-07-22 13:23:05,720 - INFO - TALK.DB-messages: 0 records
+2011-07-22 13:23:05,720 - INFO - CONTACTS2.DB-calls: 5 records
+2011-07-22 13:23:05,720 - INFO - BROWSER.DB-bookmarks: 48 records
+2011-07-22 13:23:05,720 - INFO - unmatched: 3162 records
+2011-07-22 13:23:05,720 - INFO - DOWNLOADS.DB-downloads: 128 records
+2011-07-22 13:23:05,720 - INFO - CACHEDPOSITIONS.DB-cachedpositions: 0 records
+2011-07-22 13:23:05,720 - INFO - DA_DESTINATION_HISTORY-destination_history: 0 records
+2011-07-22 13:23:05,720 - INFO - TALK.DB-contacts: 0 records
+2011-07-22 13:23:05,720 - INFO - SEARCH_HISTORY.DB-suggestions: 0 records
+2011-07-22 13:23:05,720 - INFO - MAILSTORE.*@GMAIL.COM.DB-messages: 11 records
+2011-07-22 13:23:05,720 - INFO - WEBVIEW.DB-httpauth: 55 records
+2011-07-22 13:23:05,721 - INFO - SEARCH_HISTORY.DB-history: 38 records
+2011-07-22 13:23:05,721 - INFO - Carving done!
+2011-07-22 13:23:05,721 - INFO - Generating report...
+2011-07-22 13:23:05,721 - INFO - Processing carved contact records...
+2011-07-22 13:23:05,721 - INFO - Carved 12 contact records.
+2011-07-22 13:23:05,721 - INFO - Processing done!
+2011-07-22 13:23:05,721 - INFO - Processing carved call records...
+2011-07-22 13:23:05,721 - INFO - Carved 5 call records.
+2011-07-22 13:23:05,723 - INFO - Processing done!
+2011-07-22 13:23:05,723 - INFO - Processing carved sms records...
+2011-07-22 13:23:05,723 - INFO - Found 318 sms records
+2011-07-22 13:23:05,723 - INFO - Processing done!
+2011-07-22 13:23:05,723 - INFO - Processing carved Gmail message records...
+2011-07-22 13:23:05,723 - INFO - Found 11 Gmailmessage records
+2011-07-22 13:23:05,733 - INFO - Processing done!
+2011-07-22 13:23:05,733 - INFO - Processing carved browser history records...
+2011-07-22 13:23:05,733 - INFO - Found 48 browser history records
+2011-07-22 13:23:05,733 - INFO - Processing done!
+2011-07-22 13:23:05,733 - INFO - Processing carved credential records...
+2011-07-22 13:23:05,733 - INFO - Found 56 credential records
+2011-07-22 13:23:05,733 - INFO - Processing done!
+2011-07-22 13:23:05,733 - INFO - Processing carved cachedpositions records...
+2011-07-22 13:23:05,733 - INFO - No carved cachedpositions records found
+2011-07-22 13:23:05,733 - INFO - Processing done!
+2011-07-22 13:23:05,733 - INFO - Processing carved downnload records...
+2011-07-22 13:23:05,733 - INFO - Found 128 download records
+2011-07-22 13:23:05,734 - INFO - Processing done!
+2011-07-22 13:23:05,734 - INFO - Processing carved maps search suggestions records...
+2011-07-22 13:23:05,734 - INFO - No search suggestions records found
+2011-07-22 13:23:05,734 - INFO - Processing done!
+2011-07-22 13:23:05,734 - INFO - Processing carved maps destination history records...
+2011-07-22 13:23:05,734 - INFO - No maps destination history records found
+2011-07-22 13:23:05,734 - INFO - Processing done!
+2011-07-22 13:23:05,734 - INFO - Processing carved Google talk records...
+2011-07-22 13:23:05,734 - INFO - No Google talk records found
+2011-07-22 13:23:05,734 - INFO - Processing done!
+2011-07-22 13:23:05,763 - INFO - Report done! Output written to ***anonimized***\extractAndroidData.
+2011-07-22 13:23:05,773 - INFO - Script finished without errors.

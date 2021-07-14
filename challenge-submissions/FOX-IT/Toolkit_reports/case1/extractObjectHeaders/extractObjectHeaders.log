@@ -1,0 +1,20 @@
+2011-07-22 13:27:48,559 - INFO - ******** extractObjectHeaders run on 2011-07-22 13:27:48.560000 **********
+2011-07-22 13:27:48,559 - INFO - Image file set: ***anonimized***\mtdblock6.img
+2011-07-22 13:27:48,559 - INFO - Scanning image file and building objects...
+2011-07-22 13:27:48,561 - INFO - Spare area size is set to 0, so I will only scan the object headers
+2011-07-22 13:28:36,678 - INFO - Scan done!
+2011-07-22 13:28:36,680 - INFO - Analyzing object headers...
+2011-07-22 13:28:36,911 - INFO - Analysis done!
+2011-07-22 13:28:36,911 - INFO - Exporting object header...
+2011-07-22 13:28:40,546 - INFO - Export done! Output written to ***anonimized***
+2011-07-22 13:28:40,654 - INFO - Script finished without errors.
+2011-07-22 13:28:55,821 - INFO - ******** extractObjectHeaders run on 2011-07-22 13:28:55.821000 **********
+2011-07-22 13:28:55,857 - INFO - Image file set: ***anonimized***\mtdblock5.img
+2011-07-22 13:28:55,857 - INFO - Scanning image file and building objects...
+2011-07-22 13:28:55,857 - INFO - Spare area size is set to 0, so I will only scan the object headers
+2011-07-22 13:28:58,089 - INFO - Scan done!
+2011-07-22 13:28:58,091 - INFO - Analyzing object headers...
+2011-07-22 13:28:58,091 - INFO - Analysis done!
+2011-07-22 13:28:58,091 - INFO - Exporting object header...
+2011-07-22 13:28:58,096 - INFO - Export done! Output written to ***anonimized***
+2011-07-22 13:28:58,098 - INFO - Script finished without errors.

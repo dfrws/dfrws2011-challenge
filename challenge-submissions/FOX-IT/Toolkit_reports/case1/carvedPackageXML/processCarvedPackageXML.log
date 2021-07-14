@@ -1,0 +1,9 @@
+2011-07-23 12:15:47,019 - INFO - ******** processCarvedPackageXML run on 2011-07-23 12:15:47.019000 **********
+2011-07-23 12:15:47,019 - INFO - Scanning ***anonimized***\DFRWS11challenge\Exports case 1\Carved package records for files with name pattern '*'
+2011-07-23 12:15:47,321 - INFO - Found 4533 file(s):
+2011-07-23 12:15:47,321 - INFO - Analyzing files...
+2011-07-23 12:15:47,707 - WARNING - Error during XML parsing of ***anonimized***\DFRWS11challenge\Exports case 1\Carved package records\1\Carved [228618225].xml: 'utf8' codec can't decode byte 0xd9 in position 0: invalid continuation byte 
+ skipping...
+2011-07-23 12:15:49,098 - INFO - Analysis done!
+2011-07-23 12:15:49,118 - INFO - Found 96 unique package registrations
+2011-07-23 12:15:49,127 - INFO - Script finished without errors.
