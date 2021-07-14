@@ -1,0 +1,1 @@
+int process_tar_uncompress(char* pcSourceImage,char* pcOutDirectory);
