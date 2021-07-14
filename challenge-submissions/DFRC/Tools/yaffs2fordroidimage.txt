@@ -1,0 +1,6 @@
+=======================================================
+Droid flash memory dump reconstructor v0.5
+Digital Forensic Research Center, Korea University.
+=======================================================
+Usage : yaffs2fordroidimage.exe <imagefilefullpath> <outputpathfullpath>
+e.g., > yaffs2fordroidimage C:\mtd7.dd C:\output

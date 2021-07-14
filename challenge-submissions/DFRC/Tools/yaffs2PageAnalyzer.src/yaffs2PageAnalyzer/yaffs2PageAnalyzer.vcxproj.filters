@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="01.Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="02.Main headers">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="03.Page Analyzer">
+      <UniqueIdentifier>{39d420cb-515e-4a71-8cd7-a8ddb09faa57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="04.Page Classifier">
+      <UniqueIdentifier>{21c5c77d-bc28-43bc-aac0-1c966398aeac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules">
+      <UniqueIdentifier>{f25942a6-478d-492e-b407-720bf61d6225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules\CistCrypt">
+      <UniqueIdentifier>{785bb45c-ccc9-41e3-9588-3206130fe010}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules\FileCarving">
+      <UniqueIdentifier>{ef55f775-d5f7-4678-abf5-6a7400d21bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules\RandomTest">
+      <UniqueIdentifier>{6b8d9087-c2ca-4a72-9494-b5c4d1fd8483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules\Utils">
+      <UniqueIdentifier>{3cedb58e-a212-4c35-8e02-e3666658b0f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05.Forensic Modules\SQLiteRecover">
+      <UniqueIdentifier>{2fff9fa9-839d-4a9a-9b62-cd803f1968cf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>02.Main headers</Filter>
+    </ClInclude>
+    <ClInclude Include="yaffs2PageAnalyzer.h">
+      <Filter>02.Main headers</Filter>
+    </ClInclude>
+    <ClInclude Include="PageClassifier.h">
+      <Filter>04.Page Classifier</Filter>
+    </ClInclude>
+    <ClInclude Include="PageAnalyzer.h">
+      <Filter>03.Page Analyzer</Filter>
+    </ClInclude>
+    <ClInclude Include="CistCrypt\sha1.h">
+      <Filter>05.Forensic Modules\CistCrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="CistCrypt\std_defs.h">
+      <Filter>05.Forensic Modules\CistCrypt</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCarving\FileCarving.h">
+      <Filter>05.Forensic Modules\FileCarving</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Utils.h">
+      <Filter>05.Forensic Modules\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="RandomTest\RTest.h">
+      <Filter>05.Forensic Modules\RandomTest</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLiteRecover\RecordPageExtractor.h">
+      <Filter>05.Forensic Modules\SQLiteRecover</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLiteRecover\SQLiteDataStructure.h">
+      <Filter>05.Forensic Modules\SQLiteRecover</Filter>
+    </ClInclude>
+    <ClInclude Include="SQLiteRecover\SQLiteRecover.h">
+      <Filter>05.Forensic Modules\SQLiteRecover</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>01.Main</Filter>
+    </ClCompile>
+    <ClCompile Include="yaffs2PageAnalyzer.cpp">
+      <Filter>01.Main</Filter>
+    </ClCompile>
+    <ClCompile Include="PageClassifier.cpp">
+      <Filter>04.Page Classifier</Filter>
+    </ClCompile>
+    <ClCompile Include="PageAnalyzer.cpp">
+      <Filter>03.Page Analyzer</Filter>
+    </ClCompile>
+    <ClCompile Include="CistCrypt\sha1.cpp">
+      <Filter>05.Forensic Modules\CistCrypt</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\Utils.cpp">
+      <Filter>05.Forensic Modules\Utils</Filter>
+    </ClCompile>
+    <ClCompile Include="RandomTest\RTest.cpp">
+      <Filter>05.Forensic Modules\RandomTest</Filter>
+    </ClCompile>
+    <ClCompile Include="SQLiteRecover\RecordPageExtractor.cpp">
+      <Filter>05.Forensic Modules\SQLiteRecover</Filter>
+    </ClCompile>
+    <ClCompile Include="SQLiteRecover\SQLiteRecover.cpp">
+      <Filter>05.Forensic Modules\SQLiteRecover</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

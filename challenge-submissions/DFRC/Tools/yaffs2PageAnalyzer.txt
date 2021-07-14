@@ -1,0 +1,6 @@
+=======================================================
+  YAFFS2 Page Analyzer v0.5
+  Digital Forensic Research Center, Korea University.
+=======================================================
+  Usage : yaffs2PageAnalyzer.exe  <imagefilefullpath>  <outputfolderfullpath>
+  e.g., > yaffs2PageAnalyzer  C:\mtd7.dd  C:\output
