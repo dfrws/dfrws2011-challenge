@@ -1,0 +1,16 @@
+com.android.launcher
+com.android.launcher.Launcher
+com.android.mms
+com.android.mms.ui.ComposeMessageActivity
+com.android.mms.ui.ConversationList
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+-------------- END OF WHOLE BLOCK 00000000 --------------
+com.android.launcher
+com.android.launcher.Launcher
+com.android.mms
+com.android.mms.ui.ComposeMessageActivity
+com.android.mms.ui.ConversationList
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+-------------- END OF WHOLE BLOCK 00000001 --------------

@@ -1,0 +1,19 @@
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+com.android.contacts
+com.android.contacts.ViewContactActivity
+com.android.contacts.ui.EditContactActivity
+com.android.contacts.ContactsListActivity
+com.android.contacts.DialtactsActivity
+com.android.launcher
+com.android.launcher.Launcher
+com.android.setupwizard
+com.android.setupwizard.LocationSharingActivity
+com.android.setupwizard.TutorialActivity
+com.android.setupwizard.SetupWizardActivity
+com.android.setupwizard.ChooseAccountActivity
+com.android.phone
+com.android.phone.InCallScreenShowActivation
+com.android.phone.PrivilegedOutgoingCallBroadcaster
+com.android.phone.InCallScreen
+-------------- END OF WHOLE BLOCK 00000000 --------------

@@ -1,0 +1,18 @@
+com.android.launcher
+com.android.launcher.Launcher
+com.android.settings
+com.android.settings.ApplicationSettings
+com.android.settings.Settings
+com.android.settings.DevelopmentSettings
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+-------------- END OF WHOLE BLOCK 00000000 --------------
+com.android.launcher
+com.android.launcher.Launcher
+com.android.settings
+com.android.settings.ApplicationSettings
+com.android.settings.Settings
+com.android.settings.DevelopmentSettings
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+-------------- END OF WHOLE BLOCK 00000001 --------------

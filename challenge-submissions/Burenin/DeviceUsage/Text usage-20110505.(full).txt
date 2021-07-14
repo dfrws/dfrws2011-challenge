@@ -1,0 +1,20 @@
+com.android.contacts
+com.android.contacts.CallDetailActivity
+com.android.contacts.DialtactsActivity
+com.google.android.systemupdater
+com.google.android.systemupdater.SystemUpdateInstallDialog
+com.android.launcher
+com.android.launcher.Launcher
+com.android.phone
+com.android.phone.PrivilegedOutgoingCallBroadcaster
+com.android.phone.InCallScreen
+com.android.settings
+com.android.settings.MediaFormat
+com.android.settings.PrivacySettings
+com.android.settings.ChooseLockPatternExample
+com.android.settings.deviceinfo.Memory
+com.android.settings.ChooseLockPatternTutorial
+com.android.settings.SecuritySettings
+com.android.settings.Settings
+com.android.settings.ChooseLockPattern
+-------------- END OF WHOLE BLOCK 00000000 --------------
