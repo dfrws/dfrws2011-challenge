@@ -7,7 +7,7 @@ Donald Norby was found dead in his home with a single bullet to the head. It is 
 
 The device was acquired using what the agent considered to be industry best practices. The device flash storage as well as removable media was collected. See the case specific logs for more information. The files are provided in a 157 MB tgz file Case1.tgz. Note this file uncompresses to be roughly 16.5GB.
 
-- [Case1.tgz](http://old.dfrws.org/2011/challenge/Case1.tgz)- MD5: 9a756c41cbd3b628fb55d35e695efdee31efa58e
+- [Case1.tgz](http://old.dfrws.org/2011/challenge/Case1.tgz)- MD5: 9a756c41cbd3b628fb55d35e695efdee31efa58e *too big for github*
 
 ## Scenario 2: Intellectual Property Theft
 
@@ -15,7 +15,7 @@ A serious breach of security occurred within an organization named SwiftLogic In
 
 The device was acquired using what the agent considered to be industry best practices. The device flash storage as well as removable media was collected. See the case specific logs for more information. The files are provided in a 338 MB tgz file Case2.tgz. Note this file uncompresses to be roughly 16.5GB 
 
-- [Case2.tgz](http://old.dfrws.org/2011/challenge/Case2.tgz) - MD5: 17bd6109410a0c57439aa8e701354a5f1dfd4ab3
+- [Case2.tgz](http://old.dfrws.org/2011/challenge/Case2.tgz) - MD5: 17bd6109410a0c57439aa8e701354a5f1dfd4ab3  *too big for github*
 
 ## Submission Requirements
 Submissions should include a detailed analysis in report format that:
