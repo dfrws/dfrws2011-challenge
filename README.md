@@ -1,6 +1,10 @@
 # dfrws2011-challenge
 Given the variety and impending ubiquity of Android devices along with the wide range of crimes that can involve these systems as a source of evidence, the DFRWS has created two scenarios for the forensics challenge in 2011.
 
+## The Winners
+
+Fox-IT in the Neatherlands won the challenge. They submitted Python utilities they developed, presented visual reconstruction of evidence, and had a Great overall synthesis of evidence and application to the Scenario.
+
 ## Scenario 1: Suspicious Death
 
 Donald Norby was found dead in his home with a single bullet to the head. It is unclear whether this is a suicide or homicide. The largest question revolves around the victim's potential connections to an organized criminal group called KRYPTIX. You have been asked to perform a forensic examination of Norby's Android device found at the scene in order to determine his activities and, possibly, who he communicated with prior to his death. Your ultimate goal is to determine whether he killed himself or was murdered and provide any further leads to the investigator.
